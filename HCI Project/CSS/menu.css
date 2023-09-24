@@ -1,0 +1,78 @@
+/*Ramen Menu*/
+.ramen{
+    background-color: #FFE5B3;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.ramen-menu {
+    display: flex;
+}
+.ramen-menu .ramen-list {
+    flex: 1;
+    text-align: center;
+    margin: 3px;
+    margin-bottom: 20px;
+}
+.ramen-menu .ramen-list h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.ramen-menu .ramen-list p{
+    font-family: 'Poppins', sans-serif;
+}
+.ramen-menu .ramen-list img {
+    width: 200px;
+}
+
+.ramen1-menu {
+    display: flex;
+}
+.ramen1-menu .ramen1-list {
+    flex: 1;
+    text-align: center;
+    margin: 3px;
+    margin-bottom: 20px;
+}
+.ramen1-menu .ramen1-list .h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.ramen1-menu .ramen1-list .p{
+    font-family: 'Poppins', sans-serif;
+}
+.ramen1-menu .ramen1-list img {
+    width: 200px;
+}
+
+
+/*Side Dishes Menu*/
+.sideDishes{
+    background-color: #FFE5B3;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+.side-menu {
+    display: flex;
+}
+.side-menu .side-list {
+    flex: 1;
+    text-align: center;
+    margin: 3px;
+    margin-bottom: 20px;
+}
+.side-menu .side-list h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.side-menu .side-list p{
+    font-family: 'Poppins', sans-serif;
+}
+.side-menu .side-list img {
+    width: 190px;
+}

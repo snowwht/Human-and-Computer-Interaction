@@ -1,0 +1,16 @@
+/*Promo*/
+.promoBanner{
+    background-color: red;
+    padding: 10px 30px;
+    z-index: 100;
+}
+.promoBanner h1{
+    color: white;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.promoToday {
+    text-align: center;
+    padding: 5rem;
+}

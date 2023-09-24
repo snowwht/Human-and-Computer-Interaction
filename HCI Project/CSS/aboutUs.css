@@ -1,0 +1,40 @@
+/*About us*/
+.aboutTitle{
+    background-color: #FFE5B3;
+}
+
+.aboutTitle{
+    background-color: #FFE5B3;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.history{
+    text-align: center;
+    margin: 70px 150px 40px 150px;
+}
+.history h3{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.history p{
+    font-size: 1.3rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
+.vnm{
+    text-align: center;
+    margin: 100px 150px 80px 150px;
+}
+.vnm h3{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.vnm p{
+    font-size: 1.3rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}

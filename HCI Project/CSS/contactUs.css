@@ -1,0 +1,64 @@
+/*CONTACT US*/
+.contact{
+    background-color: #FFE5B3;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-us {
+    display: flex;
+    margin-bottom: 100px;
+}
+.contact-us .outlet {
+    flex: 1;
+    text-align: left;
+    margin: 80px 150px 80px 150px;
+}
+.contact-us .outlet .h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+.contact-us .outlet p{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5px;
+}
+
+.contact-us .form{
+    margin-right: 200px;
+    margin: 70px 150px 80px 150px;
+}
+.contact-us .form .contact-tilte{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.contact-us .form .Name{
+    margin-top: 20px;
+    font-family: 'Lora', sans-serif;
+}
+.contact-us .form .Email{
+    margin-top: 10px;
+    font-family: 'Lora', sans-serif;
+}
+.contact-us .form .Phone{
+    margin-top: 10px;
+    font-family: 'Lora', sans-serif;
+}
+.contact-us .form .Preference{
+    margin-top: 10px;
+    font-family: 'Lora', sans-serif;
+
+}
+.contact-us .form .Agree{
+    margin-top: 20px;
+    font-family: 'Lora', sans-serif;
+}
+.contact-us .form .submit{
+    text-align: right;
+    margin-top: 20px;
+    font-family: 'Lora', sans-serif;
+}
+
